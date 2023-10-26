@@ -1,4 +1,4 @@
-# Otimizando-o-sistema-banc-rio-com-fun-es-python
+# Otimizando-o-sistema-bancario-com-funcoes-python
 Uma otimização do "sistema-de-banco-simples-em-python" onde foram adicionadas novas funções:
 
 foi adicionado uma função para limpar a tela
