@@ -4,15 +4,15 @@ Uma otimização do "sistema-de-banco-simples-em-python" onde foram adicionadas 
 foi adicionado uma função para limpar a tela
 
 foi adicionado funções para todas as operações do sistema antigo:
-		sacar
-		depositar
-		extrato
+		sacar,
+		depositar,
+		extrato,
 
 foi adicionado novas funções:
-	criar_usuario
-	filtrar_usuario
-	criar_conta
-	listar_contas
+	criar_usuario,
+	filtrar_usuario,
+	criar_conta,
+	listar_contas,
 
 Detalhes do que foi pedido:
 
